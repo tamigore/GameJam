@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4bc5149365a6deb4fabf0c33a0b2c7a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heart0Sprite: {fileID: 21300012, guid: c41dd73e493df4fb3a3f9b7a30bd26dd, type: 3}
+  - heart1Sprite: {fileID: 21300012, guid: c41dd73e493df4fb3a3f9b7a30bd26dd, type: 3}
+  - heart2Sprite: {fileID: 21300010, guid: c41dd73e493df4fb3a3f9b7a30bd26dd, type: 3}
+  - heart3Sprite: {fileID: 21300008, guid: c41dd73e493df4fb3a3f9b7a30bd26dd, type: 3}
+  - heart4Sprite: {fileID: 21300006, guid: c41dd73e493df4fb3a3f9b7a30bd26dd, type: 3}
+  - heartFullAnimationClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
